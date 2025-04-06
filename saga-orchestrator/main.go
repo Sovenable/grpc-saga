@@ -9,9 +9,9 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 
-	orderPb "github.com/122140015devaahmad/grpc-saga/proto/order"
-	paymentPb "github.com/122140015devaahmad/grpc-saga/proto/payment"
-	shippingPb "github.com/122140015devaahmad/grpc-saga/proto/shipping"
+	orderPb "github.com/Sovenable/grpc-saga/proto/order"
+	paymentPb "github.com/Sovenable/grpc-saga/proto/payment"
+	shippingPb "github.com/Sovenable/grpc-saga/proto/shipping"
 )
 
 // sagaExecute adalah fungsi utama yang mengatur alur transaksi
