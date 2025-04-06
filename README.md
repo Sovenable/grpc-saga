@@ -60,4 +60,5 @@ go run saga_orchestrator/main.go
 - Komunikasi antar service menggunakan gRPC
 
 ## Kontributor
-Deva Ahmad (122140015)
+Muhammad Fakhri Nur - 122140034
+
