@@ -5,7 +5,7 @@ import (
 	"log"
 	"net"
 
-	pb "github.com/122140015devaahmad/grpc-saga/proto/order"
+	pb "github.com/Sovenable/grpc-saga/proto/order"
 	"google.golang.org/grpc"
 )
 
